@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Upcasting", "Upcasting\Upcasting.csproj", "{94A965F4-B2F3-4C21-97A2-3C16AB4C1C72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94A965F4-B2F3-4C21-97A2-3C16AB4C1C72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94A965F4-B2F3-4C21-97A2-3C16AB4C1C72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94A965F4-B2F3-4C21-97A2-3C16AB4C1C72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94A965F4-B2F3-4C21-97A2-3C16AB4C1C72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27C808D2-8036-4941-8D80-5ED3A258D314}
+	EndGlobalSection
+EndGlobal

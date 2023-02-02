@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\LyambdaExpression\LyambdaExpression\bin\Debug\LyambdaExpression.exe.config
+C:\Users\HP\source\repos\LyambdaExpression\LyambdaExpression\bin\Debug\LyambdaExpression.exe
+C:\Users\HP\source\repos\LyambdaExpression\LyambdaExpression\bin\Debug\LyambdaExpression.pdb
+C:\Users\HP\source\repos\LyambdaExpression\LyambdaExpression\obj\Debug\LyambdaExpression.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\LyambdaExpression\LyambdaExpression\obj\Debug\LyambdaExpression.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\LyambdaExpression\LyambdaExpression\obj\Debug\LyambdaExpression.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\LyambdaExpression\LyambdaExpression\obj\Debug\LyambdaExpression.exe
+C:\Users\HP\source\repos\LyambdaExpression\LyambdaExpression\obj\Debug\LyambdaExpression.pdb

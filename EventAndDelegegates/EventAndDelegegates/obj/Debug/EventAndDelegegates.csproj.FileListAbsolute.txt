@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\EventAndDelegegates\EventAndDelegegates\bin\Debug\EventAndDelegegates.exe.config
+C:\Users\HP\source\repos\EventAndDelegegates\EventAndDelegegates\bin\Debug\EventAndDelegegates.exe
+C:\Users\HP\source\repos\EventAndDelegegates\EventAndDelegegates\bin\Debug\EventAndDelegegates.pdb
+C:\Users\HP\source\repos\EventAndDelegegates\EventAndDelegegates\obj\Debug\EventAndDelegegates.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\EventAndDelegegates\EventAndDelegegates\obj\Debug\EventAndDelegegates.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\EventAndDelegegates\EventAndDelegegates\obj\Debug\EventAndDelegegates.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\EventAndDelegegates\EventAndDelegegates\obj\Debug\EventAndDelegegates.exe
+C:\Users\HP\source\repos\EventAndDelegegates\EventAndDelegegates\obj\Debug\EventAndDelegegates.pdb

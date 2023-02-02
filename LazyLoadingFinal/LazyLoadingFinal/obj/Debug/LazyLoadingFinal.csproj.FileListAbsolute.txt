@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\LazyLoadingFinal\LazyLoadingFinal\bin\Debug\LazyLoadingFinal.exe.config
+C:\Users\HP\source\repos\LazyLoadingFinal\LazyLoadingFinal\bin\Debug\LazyLoadingFinal.exe
+C:\Users\HP\source\repos\LazyLoadingFinal\LazyLoadingFinal\bin\Debug\LazyLoadingFinal.pdb
+C:\Users\HP\source\repos\LazyLoadingFinal\LazyLoadingFinal\bin\Debug\EntityFramework.dll
+C:\Users\HP\source\repos\LazyLoadingFinal\LazyLoadingFinal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\source\repos\LazyLoadingFinal\LazyLoadingFinal\bin\Debug\EntityFramework.xml
+C:\Users\HP\source\repos\LazyLoadingFinal\LazyLoadingFinal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\source\repos\LazyLoadingFinal\LazyLoadingFinal\obj\Debug\LazyLoadingFinal.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\LazyLoadingFinal\LazyLoadingFinal\obj\Debug\LazyLoadingFinal.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\LazyLoadingFinal\LazyLoadingFinal\obj\Debug\LazyLoadingFinal.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\LazyLoadingFinal\LazyLoadingFinal\obj\Debug\LazyLoadingFinal.csproj.CopyComplete
+C:\Users\HP\source\repos\LazyLoadingFinal\LazyLoadingFinal\obj\Debug\LazyLoadingFinal.exe
+C:\Users\HP\source\repos\LazyLoadingFinal\LazyLoadingFinal\obj\Debug\LazyLoadingFinal.pdb
+C:\Users\HP\source\repos\LazyLoadingFinal\LazyLoadingFinal\obj\Debug\LazyLoadingFinal.Migrations.InitialModel.resources
+C:\Users\HP\source\repos\LazyLoadingFinal\LazyLoadingFinal\obj\Debug\LazyLoadingFinal.csproj.GenerateResource.cache

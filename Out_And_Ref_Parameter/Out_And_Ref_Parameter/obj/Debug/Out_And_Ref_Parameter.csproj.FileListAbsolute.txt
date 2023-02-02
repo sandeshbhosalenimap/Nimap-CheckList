@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\Out_And_Ref_Parameter\Out_And_Ref_Parameter\bin\Debug\Out_And_Ref_Parameter.exe.config
+C:\Users\HP\source\repos\Out_And_Ref_Parameter\Out_And_Ref_Parameter\bin\Debug\Out_And_Ref_Parameter.exe
+C:\Users\HP\source\repos\Out_And_Ref_Parameter\Out_And_Ref_Parameter\bin\Debug\Out_And_Ref_Parameter.pdb
+C:\Users\HP\source\repos\Out_And_Ref_Parameter\Out_And_Ref_Parameter\obj\Debug\Out_And_Ref_Parameter.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Out_And_Ref_Parameter\Out_And_Ref_Parameter\obj\Debug\Out_And_Ref_Parameter.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Out_And_Ref_Parameter\Out_And_Ref_Parameter\obj\Debug\Out_And_Ref_Parameter.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Out_And_Ref_Parameter\Out_And_Ref_Parameter\obj\Debug\Out_And_Ref_Parameter.exe
+C:\Users\HP\source\repos\Out_And_Ref_Parameter\Out_And_Ref_Parameter\obj\Debug\Out_And_Ref_Parameter.pdb

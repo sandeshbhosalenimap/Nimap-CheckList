@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\LinkQ\LinkQ\bin\Debug\LinkQ.exe.config
+C:\Users\HP\source\repos\LinkQ\LinkQ\bin\Debug\LinkQ.exe
+C:\Users\HP\source\repos\LinkQ\LinkQ\bin\Debug\LinkQ.pdb
+C:\Users\HP\source\repos\LinkQ\LinkQ\obj\Debug\LinkQ.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\LinkQ\LinkQ\obj\Debug\LinkQ.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\LinkQ\LinkQ\obj\Debug\LinkQ.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\LinkQ\LinkQ\obj\Debug\LinkQ.exe
+C:\Users\HP\source\repos\LinkQ\LinkQ\obj\Debug\LinkQ.pdb

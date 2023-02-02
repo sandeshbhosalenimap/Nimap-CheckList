@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\TPL\TPL\bin\Debug\TPL.exe.config
+C:\Users\HP\source\repos\TPL\TPL\bin\Debug\TPL.exe
+C:\Users\HP\source\repos\TPL\TPL\bin\Debug\TPL.pdb
+C:\Users\HP\source\repos\TPL\TPL\obj\Debug\TPL.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\TPL\TPL\obj\Debug\TPL.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\TPL\TPL\obj\Debug\TPL.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\TPL\TPL\obj\Debug\TPL.exe
+C:\Users\HP\source\repos\TPL\TPL\obj\Debug\TPL.pdb

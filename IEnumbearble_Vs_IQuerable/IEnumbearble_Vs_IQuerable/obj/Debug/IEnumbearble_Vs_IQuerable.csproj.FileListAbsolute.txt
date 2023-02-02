@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\IEnumbearble_Vs_IQuerable\IEnumbearble_Vs_IQuerable\bin\Debug\IEnumbearble_Vs_IQuerable.exe.config
+C:\Users\HP\source\repos\IEnumbearble_Vs_IQuerable\IEnumbearble_Vs_IQuerable\bin\Debug\IEnumbearble_Vs_IQuerable.exe
+C:\Users\HP\source\repos\IEnumbearble_Vs_IQuerable\IEnumbearble_Vs_IQuerable\bin\Debug\IEnumbearble_Vs_IQuerable.pdb
+C:\Users\HP\source\repos\IEnumbearble_Vs_IQuerable\IEnumbearble_Vs_IQuerable\obj\Debug\IEnumbearble_Vs_IQuerable.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\IEnumbearble_Vs_IQuerable\IEnumbearble_Vs_IQuerable\obj\Debug\IEnumbearble_Vs_IQuerable.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\IEnumbearble_Vs_IQuerable\IEnumbearble_Vs_IQuerable\obj\Debug\IEnumbearble_Vs_IQuerable.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\IEnumbearble_Vs_IQuerable\IEnumbearble_Vs_IQuerable\obj\Debug\IEnumbearble_Vs_IQuerable.exe
+C:\Users\HP\source\repos\IEnumbearble_Vs_IQuerable\IEnumbearble_Vs_IQuerable\obj\Debug\IEnumbearble_Vs_IQuerable.pdb

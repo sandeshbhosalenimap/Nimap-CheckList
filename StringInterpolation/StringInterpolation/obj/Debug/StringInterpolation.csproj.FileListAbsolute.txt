@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\StringInterpolation\StringInterpolation\bin\Debug\StringInterpolation.exe.config
+C:\Users\HP\source\repos\StringInterpolation\StringInterpolation\bin\Debug\StringInterpolation.exe
+C:\Users\HP\source\repos\StringInterpolation\StringInterpolation\bin\Debug\StringInterpolation.pdb
+C:\Users\HP\source\repos\StringInterpolation\StringInterpolation\obj\Debug\StringInterpolation.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\StringInterpolation\StringInterpolation\obj\Debug\StringInterpolation.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\StringInterpolation\StringInterpolation\obj\Debug\StringInterpolation.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\StringInterpolation\StringInterpolation\obj\Debug\StringInterpolation.exe
+C:\Users\HP\source\repos\StringInterpolation\StringInterpolation\obj\Debug\StringInterpolation.pdb

@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\MethodOverLoding\MethodOverLoding\bin\Debug\MethodOverLoding.exe.config
+C:\Users\HP\source\repos\MethodOverLoding\MethodOverLoding\bin\Debug\MethodOverLoding.exe
+C:\Users\HP\source\repos\MethodOverLoding\MethodOverLoding\bin\Debug\MethodOverLoding.pdb
+C:\Users\HP\source\repos\MethodOverLoding\MethodOverLoding\obj\Debug\MethodOverLoding.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\MethodOverLoding\MethodOverLoding\obj\Debug\MethodOverLoding.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\MethodOverLoding\MethodOverLoding\obj\Debug\MethodOverLoding.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\MethodOverLoding\MethodOverLoding\obj\Debug\MethodOverLoding.exe
+C:\Users\HP\source\repos\MethodOverLoding\MethodOverLoding\obj\Debug\MethodOverLoding.pdb

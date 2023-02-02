@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\FluentApi\FluentApi\bin\Debug\FluentApi.exe.config
+C:\Users\HP\source\repos\FluentApi\FluentApi\bin\Debug\FluentApi.exe
+C:\Users\HP\source\repos\FluentApi\FluentApi\bin\Debug\FluentApi.pdb
+C:\Users\HP\source\repos\FluentApi\FluentApi\bin\Debug\EntityFramework.dll
+C:\Users\HP\source\repos\FluentApi\FluentApi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\source\repos\FluentApi\FluentApi\bin\Debug\EntityFramework.xml
+C:\Users\HP\source\repos\FluentApi\FluentApi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\source\repos\FluentApi\FluentApi\obj\Debug\FluentApi.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\FluentApi\FluentApi\obj\Debug\FluentApi.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\FluentApi\FluentApi\obj\Debug\FluentApi.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\FluentApi\FluentApi\obj\Debug\FluentApi.csproj.CopyComplete
+C:\Users\HP\source\repos\FluentApi\FluentApi\obj\Debug\FluentApi.exe
+C:\Users\HP\source\repos\FluentApi\FluentApi\obj\Debug\FluentApi.pdb
+C:\Users\HP\source\repos\FluentApi\FluentApi\obj\Debug\FluentApi.Migrations.InitialModel.resources
+C:\Users\HP\source\repos\FluentApi\FluentApi\obj\Debug\FluentApi.csproj.GenerateResource.cache

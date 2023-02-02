@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\ReffrenceDataTypes\ReffrenceDataTypes\bin\Debug\ReffrenceDataTypes.exe.config
+C:\Users\HP\source\repos\ReffrenceDataTypes\ReffrenceDataTypes\bin\Debug\ReffrenceDataTypes.exe
+C:\Users\HP\source\repos\ReffrenceDataTypes\ReffrenceDataTypes\bin\Debug\ReffrenceDataTypes.pdb
+C:\Users\HP\source\repos\ReffrenceDataTypes\ReffrenceDataTypes\obj\Debug\ReffrenceDataTypes.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\ReffrenceDataTypes\ReffrenceDataTypes\obj\Debug\ReffrenceDataTypes.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\ReffrenceDataTypes\ReffrenceDataTypes\obj\Debug\ReffrenceDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ReffrenceDataTypes\ReffrenceDataTypes\obj\Debug\ReffrenceDataTypes.exe
+C:\Users\HP\source\repos\ReffrenceDataTypes\ReffrenceDataTypes\obj\Debug\ReffrenceDataTypes.pdb

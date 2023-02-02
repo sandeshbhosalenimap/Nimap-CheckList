@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\StringBuilder\StringBuilder\bin\Debug\StringBuilder.exe.config
+C:\Users\HP\source\repos\StringBuilder\StringBuilder\bin\Debug\StringBuilder.exe
+C:\Users\HP\source\repos\StringBuilder\StringBuilder\bin\Debug\StringBuilder.pdb
+C:\Users\HP\source\repos\StringBuilder\StringBuilder\obj\Debug\StringBuilder.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\StringBuilder\StringBuilder\obj\Debug\StringBuilder.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\StringBuilder\StringBuilder\obj\Debug\StringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\StringBuilder\StringBuilder\obj\Debug\StringBuilder.exe
+C:\Users\HP\source\repos\StringBuilder\StringBuilder\obj\Debug\StringBuilder.pdb
